@@ -1,0 +1,28 @@
+body{
+    background-image: url("dotted_background.svg");
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+.anotherClass {
+    background-color: seagreen;
+}
+
+#name {
+    color: rgb(212, 180, 0);
+}
+
+button {
+    background-color: green;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+}
